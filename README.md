@@ -2,6 +2,8 @@
 
 Welcome to the **Job Board Web App** repository! This project demonstrates the power of modern frontend technologies in building a sleek, interactive, and responsive job board. Whether you're a developer exploring the codebase or a user searching for job opportunities, we hope you find this project insightful and engaging.
 
+![Screenshot](jobboard.png)
+
 ## 🌟 Technologies Used
 
 - 🎨 **HTML** – The backbone of the web, providing structured content.
